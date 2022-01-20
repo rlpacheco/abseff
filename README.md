@@ -8,7 +8,7 @@ Stata command **abseff** (immediate calculation of absolute effects from relativ
 
 Rafael Leite Pacheco<sup>1,2,3</sup>, Rachel Riera<sup>1,2</sup>
 
-[1] Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês.
+[1] Núcleo de Avaliação de Tecnologias em Saúde, Hospital Sírio-Libanês.
 
 [2] Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências e Avaliação de Tecnologias em Saúde (NEP-SBEATS), Universidade Federal de São Paulo.
 
