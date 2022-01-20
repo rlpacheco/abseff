@@ -1,3 +1,8 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**abseff (absolute effects)**
+
+Stata command **abseff** (immediate calculation of absolute effects from relative treatment estimates)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Authors**
 
@@ -15,11 +20,6 @@ Rafael Leite Pacheco<sup>1,2,3</sup>, Rachel Riera<sup>1,2</sup>
 Feedbacks and corrections are welcome!
 
 e-mail: rleitepacheco@hotmail.com
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**abseff (absolute effects)**
-
-Stata command **abseff** (immediate calculation of absolute effects from relative treatment estimates)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Title**
