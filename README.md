@@ -42,7 +42,7 @@ N2-N6 = numerical values based on each treatment effect
 
 The command abseff was created for immediate calculating of absolute effects based on relative treatment estimates. 
 
-The main intention of this command is to facilate absolute effects derivation for health researchers and systematic review authors. Editors and peer-reviewers of Cochrane reviews may also find this usefull as they have to revise multiple summary of findings table.
+The main intention of this command is to facilitate absolute effects derivation for health researchers and systematic review authors. Editors and peer-reviewers of Cochrane reviews may also find this helpful as they have to revise multiple summary of findings table.
 
 
 1) **Absolute effect based on relative risk (risk ratios)**
