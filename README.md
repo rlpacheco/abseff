@@ -76,7 +76,7 @@ upper_limit absolute effect = 396
 
 *Explanation*:
 
-This example is calculating absolute effects on base 1000 for a relative risk of 0.83 (95% CI of 0.63 to 1.03) considering a control risk of 50/130. The antecipated risk with intervention of 319 (242 to 396) per 1000 patients.
+This example is calculating absolute effects on base 1000 for a relative risk of 0.83 (95% CI of 0.63 to 1.03) considering a control risk of 50/130. The antecipated risk with intervention is 319 (242 to 396) per 1000 patients.
 
 *Example (2)*: 
 
@@ -92,7 +92,7 @@ upper_limit absolute effect = 40
 
 *Explanation*:
 
-If you wish an easy and rapid convertion on base 100 you can identify rr100. The rationale is the same on example(1), but the results are on base 100. The antecipated risk with intervention of 32 (24 to 40) per 100 patients.
+If you wish an easy and rapid convertion on base 100 you can identify rr100. The rationale is the same on example(1), but the results are on base 100. The antecipated risk with intervention is 32 (24 to 40) per 100 patients.
 
 2) **Absolute effect based on odds ratios**
 
