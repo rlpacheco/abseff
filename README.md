@@ -1,3 +1,22 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Authors**
+
+Rafael Leite Pacheco<sup>1,2,3</sup>, Rachel Riera<sup>1,2</sup>
+
+[1] Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês.
+
+[2] Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências, Universidade Federal de São Paulo.
+
+[3] Centro Universitário São Camilo.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Contact**
+
+Feedbacks and corrections are welcome!
+
+e-mail: rleitepacheco@hotmail.com
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **abseff (absolute effects)**
 
 Stata command **abseff** (immediate calculation of absolute effects from relative treatment estimates)
@@ -34,9 +53,13 @@ The main intention of this command is to facilate absolute effects derivation fo
 **abseff** rr100 N2 N3 N4 N5 N6
 
 N2 = point estimate for the relative risk
+
 N3 = lower limit of the confidence interval for the relative risk
+
 N4 = upper limite of the confidence interval for the relative risk
+
 N5 = total number of events on control group
+
 N6 = total number of participants on control group
 
 Example (1): 
@@ -157,15 +180,4 @@ Calculations were based on the following publications:
 [2] Skoetz N, Goldkuhle M, van Dalen EC, Akl EA, Trivella M, Mustafa RA, Nowak A, Dahm P, Schünemann H, Bender R; GRADE Working Group. GRADE guidelines 27: how to calculate absolute effects for time-to-event outcomes in summary of findings tables and Evidence Profiles. J Clin Epidemiol. 2020 Feb;118:124-131. doi: 10.1016/j.jclinepi.2019.10.015.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Authors**
-Rafael Leite Pacheco
 
-Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês; Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências, Universidade Federal de São Paulo.
-
-Rachel Riera
-
-Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês; Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências, Universidade Federal de São Paulo.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Support**
-e-mail: rleitepacheco@hotmail.com
