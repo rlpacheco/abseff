@@ -76,7 +76,7 @@ upper_limit absolute effect = 396
 
 *Explanation*:
 
-This example is calculating absolute effects on base 1000 for a relative risk of 0.83 (95% CI of 0.63 to 1.03) considering a control risk of 50/130. The antecipated risk with intervention is 319 (242 to 396) per 1000 patients.
+This example is calculating the absolute effects on base 1000 for a relative risk of 0.83 (95% CI of 0.63 to 1.03) considering a control risk of 50/130. The antecipated risk with intervention is 319 (242 to 396) per 1000 patients.
 
 *Example (2)*: 
 
@@ -124,7 +124,7 @@ upper_limit absolute effect = 233
 
 *Explanation*:
 
-This example is calculating absolute effects on base 1000 for a odds ratio of 1.57 (95% CI of 1.31 to 1.87) considering a control risk of 14/100.
+This example is calculating the absolute effects on base 1000 for a odds ratio of 1.57 (95% CI of 1.31 to 1.87) considering a control risk of 14/100.
 
 *Example (4)*:
 
@@ -140,7 +140,7 @@ upper_limit absolute effect = 23
 
 *Explanation*:
 
-This example is calculating absolute effects on base 100 for a odds ratio of 1.57 (95% CI of 1.31 to 1.87) considering a control risk of 14/100.
+This example is calculating the absolute effects on base 100 for a odds ratio of 1.57 (95% CI of 1.31 to 1.87) considering a control risk of 14/100.
 
 
 3) **Absolute effect based on hazard ratios**
@@ -173,7 +173,7 @@ upper_limit absolute effect = 73
 
 *Explanation*:
 
-This example is calculating absolute risk of an event on base 1000 for a hazard ratio of 0.90 (95% CI of 0.61 to 1.34) considering a control risk of 0.055 (5.5%) in a particular time (e.g. 5 years).
+This example is calculating the absolute risk of an event on base 1000 for a hazard ratio of 0.90 (95% CI of 0.61 to 1.34) considering a control risk of 0.055 (5.5%) in a particular time (e.g. 5 years).
 
 Indicating **hrevent100** would wield the result on base 100. 
 
@@ -208,7 +208,7 @@ upper_limit absolute effect = 938
 
 *Explanation*:
 
-This example is calculating absolute risk of an event-free survival on base 1000 for a hazard ratio of 0.35 (95% CI of 0.18 to 0.65) considering a control risk of 0.7 (70%) in a particular time (e.g. 5 years). The antecipated risk of event-free (e.g. alive) patients with intervention is 883 (793 to 938) per 1000 patients.
+This example is calculating the absolute risk of an event-free survival on base 1000 for a hazard ratio of 0.35 (95% CI of 0.18 to 0.65) considering a control risk of 0.7 (70%) in a particular time (e.g. 5 years). The antecipated risk of event-free (e.g. alive) patients with intervention is 883 (793 to 938) per 1000 patients.
 
 Indicating **hrsurv100** would wield the result on base 100. 
 
