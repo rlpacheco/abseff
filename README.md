@@ -42,8 +42,7 @@ N2-N6 = numerical values based on each treatment effect
 
 The command abseff was created for immediate calculating of absolute effects based on relative treatment estimates. 
 
-The main intention of this command is to facilate absolute effects derivation for health researchers and systematic review authors. 
-
+The main intention of this command is to facilate absolute effects derivation for health researchers and systematic review authors. Editors and peer-reviewers of Cochrane reviews may also find this usefull as they have to revise multiple summary of findings table.
 
 
 1) **Absolute effect based on relative risk (risk ratios)**
@@ -176,7 +175,7 @@ upper_limit absolute effect = 73
 
 This example is calculating absolute absolute risk of an event on base 1000 for a hazard ratio of 0.90 (95% CI of 0.61 to 1.34) considering a control risk of 0.055 (5.5%) in a particular time (e.g. 5 years).
 
-Indicating hrevent100 would wield the result on base 100. 
+Indicating **hrevent100** would wield the result on base 100. 
 
 For hazard ratios, we included the % of patients with event in control group, as this is more often the available information presented in survival curves rather than number of events. If you have the number of events, you can just calculate the % and add to the command.
 
@@ -211,7 +210,7 @@ upper_limit absolute effect = 938
 
 This example is calculating absolute absolute risk of an event-free survival on base 1000 for a hazard ratio of 0.35 (95% CI of 0.18 to 0.65) considering a control risk of 0.7 (70%) in a particular time (e.g. 5 years). The antecipated risk of event-free (e.g. alive) patients with intervention is 883 (793 to 938) per 1000 patients.
 
-Indicating hrsurv100 would wield the result on base 100. 
+Indicating **hrsurv100** would wield the result on base 100. 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
