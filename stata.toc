@@ -1,0 +1,11 @@
+v 3
+d {bf:absseff}
+d Absolute Effects. The command abseff was created for the immediate calculating of absolute effects based on relative treatment estimates.
+d {bf:Authors}
+d Rafael Leite Pacheco. Hospital Sírio-Libanês; Universidade Federal de São Paulo.
+d Rachel Riera. Hospital Sírio-Libanês; Universidade Federal de São Paulo.
+d {bf:Support}
+d Support: https://github.com/rlpacheco/abseff/blob/main/README.md
+d Full website: https://github.com/rlpacheco/abseff
+d Contact: rleitepacheco@hotmail.com
+p abseff
