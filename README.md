@@ -22,6 +22,15 @@ Feedbacks and corrections are welcome!
 e-mail: rleitepacheco@hotmail.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Downloading package**
+
+(Step 1) Type at STATA: net from https://rlpacheco.github.io/abseff/
+
+(Step 2) Then type: net install abseff
+
+Your package will be ready for use. For details, type: net describe abseff
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Title**
 
 **abseff** - immediate calculation of absolute effects from relative treatment estimates
