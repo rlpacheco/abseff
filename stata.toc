@@ -1,3 +1,4 @@
+ --- BEGIN --- stata.toc ----------------------------------------------------------------------------------------------------------------------------------------------------------
 v 3
 d abseff. Absolute effects from relative treatment estimates.
 d abseff by Rafael Leite Pacheco and Rachel Riera
@@ -5,3 +6,4 @@ d Hospital Sírio-Libanês, Universidade Federal de São Paulo.
 d The command abseff was created for the immediate calculating of absolute effects based on relative treatment estimates.
 
 p abseff Absolute effects from relative treatment estimates
+ --- END ----- stata.toc ----------------------------------------------------------------------------------------------------------------------------------------------------------
