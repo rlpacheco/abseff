@@ -1,25 +1,3 @@
-///***
-
-Title
-
-abseff - immediate calculation of absolute effects from relative treatment estimates
-
-
-Authors
-
-Rafael Leite Pacheco
-Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês; Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências, Universidade Federal de São Paulo.
-
-Rachel Riera
-Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês; Núcleo de Ensino e Pesquisa em Saúde Baseada em Evidências, Universidade Federal de São Paulo.
-
-
-
-Contact: rleitepacheco@hotmail.com
-
-***///
-
-
 program define abseff
 
 local which = "`1'"
