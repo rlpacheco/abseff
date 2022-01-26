@@ -1,4 +1,4 @@
-**# Title
+////**# Title
 
 abseff - immediate calculation of absolute effects from relative treatment estimates
 
@@ -155,5 +155,5 @@ Núcleo de Avaliação de Tecnologias em saúde, Hospital Sírio-Libanês; Núcl
 
 **# Support
 e-mail: rleitepacheco@hotmail.com
-
+////
 
