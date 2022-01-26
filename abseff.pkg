@@ -1,4 +1,3 @@
---- BEGIN --- abseff.pkg ----------------------------------------------------------------------------------------------------------------------------------------
 v 3
 d abseff. Absolute effects from relative treatment estimates.
 d abseff by Rafael Leite Pacheco and Rachel Riera
@@ -8,4 +7,3 @@ d The command abseff was created for the immediate calculating of absolute effec
 
 f abseff.ado
 f abseff.sthlp
---- END --- abseff.pkg ----------------------------------------------------------------------------------------------------------------------------------------
