@@ -9,5 +9,6 @@ d {bf:Support}
 d Support: https://github.com/rlpacheco/abseff/blob/main/README.md
 d Full website: https://github.com/rlpacheco/abseff
 d Contact: rleitepacheco@hotmail.com
+
 p abseff
 --- END ----- stata.toc ------------------------------------
