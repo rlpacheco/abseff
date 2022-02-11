@@ -113,11 +113,8 @@ For hazard ratios, we included the % of patients with event in control group, as
 abseff hrsurv N2 N3 N4 N5
 
 N2 = point estimate for the hazard ratio
-
 N3 = lower limit of the confidence interval for the hazard ratio
-
 N4 = upper limite of the confidence interval for the hazard ratio
-
 N5 = % of patients with event-free in control group
 
 Example (4):
