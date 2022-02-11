@@ -4,7 +4,7 @@ d abseff by Rafael Leite Pacheco and Rachel Riera
 d Hospital Sírio-Libanês; Universidade Federal de São Paulo.
 d Contact: rleitepacheco@hotmail.com
 d The command abseff was created for the immediate calculating of absolute effects based on relative treatment estimates.
-d Distribution-Date: 20220126
+d Distribution-Date: 20220211
 d Full guidance and support: https://github.com/rlpacheco/abseff
 
 f abseff.ado
