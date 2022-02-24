@@ -43,7 +43,7 @@ display as txt "Base 100"
 
 display as txt "The risk with control group is "  `b100' " per 100."
 
-display as txt "The anticipated absolute effects is "  `p100' " per 1000 (95% CI = " `l100'  " to " `u100' ")."
+display as txt "The anticipated absolute effects is "  `p100' " per 100 (95% CI = " `l100'  " to " `u100' ")."
 
 display as txt "The absolute risk difference is " `p100' - `b100' " per 100 (95% CI = " `l100' - `b100'  " to "  `u100' - `b100' ")."
 
@@ -82,7 +82,7 @@ display as txt "Base 100"
 
 display as txt "The risk with control group is "  `b100' " per 100."
 
-display as txt "The anticipated absolute effects is "  `p100' " per 1000 (95% CI = " `l100'  " to " `u100' ")."
+display as txt "The anticipated absolute effects is "  `p100' " per 100 (95% CI = " `l100'  " to " `u100' ")."
 
 display as txt "The absolute risk difference is " `p100' - `b100' " per 100 (95% CI = " `l100' - `b100'  " to "  `u100' - `b100' ")."
 
@@ -119,7 +119,7 @@ display as txt "Base 100"
 
 display as txt "The proportion of patients free of event in a certain time-point with control group is "  `b100' " per 100."
 
-display as txt "The anticipated absolute effects is "  `p100' " per 1000 (95% CI = " `l100'  " to " `u100' ")."
+display as txt "The anticipated absolute effects is "  `p100' " per 100 (95% CI = " `l100'  " to " `u100' ")."
 
 display as txt "The absolute risk difference is " `p100' - `b100' " per 100 (95% CI = " `l100' - `b100'  " to "  `u100' - `b100' ")."
 	
@@ -157,7 +157,7 @@ display as txt "Base 100"
 
 display as txt "The risk of event in a certain time-point with control group is "  `b100' " per 100."
 
-display as txt "The anticipated absolute effects is "  `p100' " per 1000 (95% CI = " `l100'  " to " `u100' ")."
+display as txt "The anticipated absolute effects is "  `p100' " per 100 (95% CI = " `l100'  " to " `u100' ")."
 
 display as txt "The absolute risk difference is " `p100' - `b100' " per 100 (95% CI = " `l100' - `b100'  " to "  `u100' - `b100' ")."
 	
