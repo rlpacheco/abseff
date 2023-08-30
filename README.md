@@ -14,6 +14,8 @@ Rafael Leite Pacheco<sup>1,2,3</sup>, Rachel Riera<sup>1,2</sup>
 
 [3] Centro Universitário São Camilo.
 
+[4] Laboratório de Programação e Análise de Dados (LPAD), Disciplina de Economia e Gestão em Saúde, Universidade Federal de São Paulo.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Contact**
 
