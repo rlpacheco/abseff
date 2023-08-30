@@ -6,7 +6,7 @@ Stata command **abseff** (immediate calculation of absolute effects from relativ
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Authors**
 
-Rafael Leite Pacheco<sup>1,2,3</sup>, Rachel Riera<sup>1,2</sup>
+Rafael Leite Pacheco<sup>1,2,3,4</sup>, Rachel Riera<sup>1,2</sup>
 
 [1] Núcleo de Avaliação de Tecnologias em Saúde, Hospital Sírio-Libanês.
 
